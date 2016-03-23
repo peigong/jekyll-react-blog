@@ -1,2 +1,1 @@
-# jekyll-react-blog
-Jekyll blog app on React
+# 基于React的Jekyll博客应用 #
